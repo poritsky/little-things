@@ -1,4 +1,4 @@
-little-things
+A Home for Some Little Things
 =============
 
-Just a place where some smaller scripts and downloads live.
+Move along. I'm just hosting some small zips here.
